@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+    max-width: 900px;
+    margin: auto;
+}
+header {
+    margin: 35px 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+nav > a {
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1, h2 {
+    text-align: center;
+    color: midnightblue;
+    padding: 15px
+}
+
+p, li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section.musiclist h3 {
+    color: darkslateblue;
+}
+
+aside {
+    background: midnightblue;
+    max-width: 550px;
+    margin: auto;
+    padding: 0 20px 10px 0;
+    color: white;
+    line-height: 200%;
+}
+
+aside > h2 {
+    font-size: 35px;
+    padding: 15px 0 0;
+    color: lightblue;
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
